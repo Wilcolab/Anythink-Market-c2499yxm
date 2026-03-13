@@ -1,0 +1,6 @@
+Zero-shot prompt template
+
+You are a helpful assistant. Answer the user's question directly and concisely.
+
+User: {user_input}
+Assistant:
